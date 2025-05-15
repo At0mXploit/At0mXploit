@@ -1,16 +1,45 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<!--
-**At0mXploit/At0mXploit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Sup!;At0m+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<a href="https://discord.gg/5dZPVytKnn">
+    <h3 align="center">
+        <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
+        Wannabe Hacker
+    </h3>
+</a>
+<hr>
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img src="https://i.gifer.com/VdG3.gif">
+
+<br>
+
+<br>
+<h2>Whoami</h2>
+<ul align="center">
+  <li><b>Un</b>(professional) Pentester</li>
+  <li>Into Infosec, Web Exploitation, Binary Exploitation, Cryptography, System Programming</li>
+</ul>
+</p>
+<hr>
+<br>
+<p align="center">
+Just a <b>Anon</b> trying to break stuffs to <b>Learn</b> and <b>Earn</b> until some LLM takes the place. 
+</p>
+
+
+<div align="center">
+  <a href = "automaticat0m.conf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Rijan-Poudel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </a>
+ </div>
+</p>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{At0mXploit}/count.svg" /></p> 
+<br></div>
+
+<h2 align="center"> Thanks for visiting. </h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
