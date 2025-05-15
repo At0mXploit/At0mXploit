@@ -20,15 +20,12 @@
 <ul align="center">
   <li><b>Un</b>(professional) Pentester</li>
   <li>Into Infosec, Web Exploitation, Binary Exploitation, Cryptography, System Programming</li>
+    <li>Just a <b>Anon</b> trying to break stuffs to <b>Learn</b> and <b>Earn</b> until some LLM takes the place. </li>
+    <li>I like to play CTFs, Bug Bounty and binge watch a lots of Anime, Series, Movies.</li>
 </ul>
 </p>
-<hr>
 <br>
-<p align="center">
-Just a <b>Anon</b> trying to break stuffs to <b>Learn</b> and <b>Earn</b> until some LLM takes the place. 
-</p>
-
-
+<hr>
 <div align="center">
   <a href = "automaticat0m.conf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Rijan-Poudel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -40,6 +37,5 @@ Just a <b>Anon</b> trying to break stuffs to <b>Learn</b> and <b>Earn</b> until 
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{At0mXploit}/count.svg" /></p> 
 <br></div>
-
-<h2 align="center"> Thanks for visiting. </h2>
+<h2 align="center"> Happy Hacking! </h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
