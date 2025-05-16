@@ -33,9 +33,6 @@
  </div>
 </p>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{At0mXploit}/count.svg" /></p> 
-<br></div>
+
 <h2 align="center"> Happy Hacking! </h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
