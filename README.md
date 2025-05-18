@@ -18,8 +18,8 @@
 <br>
 <h2>Whoami</h2>
 <ul align="center">
-  <li><b>Un</b>(professional) Pentester / DevSecOps ¯\_(ツ)_/¯ </li>
-  <li>Into Infosec, Web Exploitation, Binary Exploitation, Cryptography, System Programming</li>
+  <li><b>Un</b>(professional) Pentester / InfoSec Wizard ¯\_(ツ)_/¯ </li>
+  <li> Web Exploitation, Binary Exploitation, Cryptography, System Programming.</li>
     <li>Just a <b>Anon</b> trying to break stuffs to <b>Learn</b> and <b>Earn</b> until some LLM takes the place. </li>
     <li>I like to play CTFs, Bug Bounty and binge watch a lots of Anime, Series, Movies.</li>
 </ul>
